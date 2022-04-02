@@ -1,0 +1,970 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx PUBLIC "-//LISA OSCAR:1998//DTD for Translation Memory eXchange//EN" "tmx14.dtd" >
+<tmx version="1.4">
+<header
+	creationtool="Heartsome TMX Editor"
+	creationtoolversion="8.0.1"
+	srclang="ja"
+	adminlang="en"
+	datatype="unknown"
+	o-tmf="unknown"
+	segtype="sentence"
+	creationid="LinQinsan"
+	creationdate="20220318T163701Z">
+</header>
+<body>
+<tu><note>まえがき</note><note>book 日语敬语45例</note>
+<tuv xml:lang="ja">
+<seg>まえがき</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>写在前面的话</seg>
+</tuv>
+</tu><tu><note>まえがき</note><note>book 日语敬语45例</note>
+<tuv xml:lang="ja">
+<seg>みなさんは「日本語の敬語」と聞くと、どんなことを思うでしょうか。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>大家听到“日语敬语”时会联想到什么？</seg>
+</tuv>
+</tu><tu><note>まえがき</note><note>book 日语敬语45例</note>
+<tuv xml:lang="ja">
+<seg>難しい、面倒だ、中国語にはないからわからない、などと思う人もいるかもしれません。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>可能有人会想:难，麻烦，汉语中没有对应的语法，搞不懂……</seg>
+</tuv>
+</tu><tu><note>まえがき</note><note>book 日语敬语45例</note>
+<tuv xml:lang="ja">
+<seg>確かに日本語の敬語は難しいところもあります。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>的确，日语敬语是比较难的，</seg>
+</tuv>
+</tu><tu><note>まえがき</note><note>book 日语敬语45例</note>
+<tuv xml:lang="ja">
+<seg>日本人でも若い人はうまく使えないと言われています。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>甚至日本的年轻人也有人用不好。</seg>
+</tuv>
+</tu><tu><note>まえがき</note><note>book 日语敬语45例</note>
+<tuv xml:lang="ja">
+<seg>しかし、日本語でも中国語でも、誰かと話をするとき、人と付き合うとき、気持ちを伝えたいとき、どうしたらいいかと考えることは同じだと思います。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>但是在与人交流、与人来往、表达自己的心情时，需要考虑用什么样的方式更合适，在这点上无论日语还是汉语都是一样的。</seg>
+</tuv>
+</tu><tu><note>まえがき</note><note>book 日语敬语45例</note>
+<tuv xml:lang="ja">
+<seg>日本語の「敬語」は複雑で難しい面はあるのですが、実際に使うときに何を使うか、よく使う言い方を覚えておけば、それほど難しいものではありません。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>日语的“敬语”规则复杂，想要用好它的确不容易，但是只要记住了什么时候该说什么等固定的说法，它也不像想象的那么难。</seg>
+</tuv>
+</tu><tu><note>まえがき</note><note>book 日语敬语45例</note>
+<tuv xml:lang="ja">
+<seg>むしろ、敬語は日本語のコミュニケーションのための言葉遣いの一つの部分であって、本当に大切なのは、どうして敬語を使うのか、どのように使うのかという敬語を使うための基本的な考え方を知ることだと思います。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>敬语是用日语交流时遣词造句的一部分，真正重要的是要知道为什么使用敬语，怎样才能得体地使用敬语等基本观点。</seg>
+</tuv>
+</tu><tu><note>まえがき</note><note>book 日语敬语45例</note>
+<tuv xml:lang="ja">
+<seg>日本語と中国語では人を大事にする、誰かのことを考えて言葉を選ぶというときに考える基準や方法が異なります。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>日语和汉语在如何尊重对方，如何视不同的对象选择合适的表达上的基准和方式有所不同。</seg>
+</tuv>
+</tu><tu><note>まえがき</note><note>book 日语敬语45例</note>
+<tuv xml:lang="ja">
+<seg>自分の考えとは違う考え方を知ることは外国語を勉強するときの一つの大きな目的であり、面白いところだと思います。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>学习外语的目的之一是了解与自已不同的思维方式，这是一件很有意思的事情。</seg>
+</tuv>
+</tu><tu><note>まえがき</note><note>book 日语敬语45例</note>
+<tuv xml:lang="ja">
+<seg>日本語の考え方を知ることで、自分の言葉ではどうなっているのかを考えることができ、自分の言葉についての理解も深まるのです。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>通过了解日语的思维方式，可以去思考自己的母语，从而更加深入地了解自己的母语。</seg>
+</tuv>
+</tu><tu><note>まえがき</note><note>book 日语敬语45例</note>
+<tuv xml:lang="ja">
+<seg>そのように考えて日本語の敬語とコミュニケーションの仕方について勉強してみませんか。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>建议大家从这个角度去学习日语的敬语和交流方式，</seg>
+</tuv>
+</tu><tu><note>まえがき</note><note>book 日语敬语45例</note>
+<tuv xml:lang="ja">
+<seg>きっと日本語と日本人について、そして、自分の言葉と自分たちの考え方について新しい発見があると思います。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>一定会对日语、日本人，以及自己的母语和自己的思维方式有新发现。</seg>
+</tuv>
+</tu><tu><note>まえがき</note><note>book 日语敬语45例</note>
+<tuv xml:lang="ja">
+<seg>なお、「敬語コミュニケーション」というのはここでの特別な言葉、考え方を示しています。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>这里用的“敬语交流”是个有特别意义的词汇。</seg>
+</tuv>
+</tu><tu><note>まえがき</note><note>book 日语敬语45例</note>
+<tuv xml:lang="ja">
+<seg>「いらっしゃる」「申し上げる」「です」「ます」などの「敬語」を使うのはどんなどきでしょうか。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>大家可以想象一下，我们在什么情况下使用「いらっしゃる」「申し上げる」「です」「ます」等敬语？</seg>
+</tuv>
+</tu><tu><note>まえがき</note><note>book 日语敬语45例</note>
+<tuv xml:lang="ja">
+<seg>「敬語」を使うということは相手のことを考えて、相手にあわせた言葉を選んで、自分の言いたいことや気持ちを伝えることで、</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>之所以使用敬语是为对方考虑的，交流时要选择与对方身份相符的词语，表达自己的想法和心情。</seg>
+</tuv>
+</tu><tu><note>まえがき</note><note>book 日语敬语45例</note>
+<tuv xml:lang="ja">
+<seg>これは敬語だけを使って表現することではありません。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>要做到这点，单靠使用敬语是不够的，</seg>
+</tuv>
+</tu><tu><note>まえがき</note><note>book 日语敬语45例</note>
+<tuv xml:lang="ja">
+<seg>敬語以外にも相手のことを考える表現はたくさんありますし、敬語を使わないことも一つの選択肢です。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>还有很多敬语之外的表达方式也可以表达说话人为对方着想的心情，也就是说不使用敬语也是一个选项。</seg>
+</tuv>
+</tu><tu><note>まえがき</note><note>book 日语敬语45例</note>
+<tuv xml:lang="ja">
+<seg>相手にあわせて敬語や敬語以外の言葉の中から適当だと思うものを選んで使っているのです。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>其实我们是从敬语以及敬语以外的词语当中选择合适的表达方式来表达自己想说的事情和心情的，</seg>
+</tuv>
+</tu><tu><note>まえがき</note><note>book 日语敬语45例</note>
+<tuv xml:lang="ja">
+<seg>このような相手に配慮して使う、敬語だけではないいろいろな表現のことを「敬語表現」と言っています。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>我们把这称为“敬语表达”。</seg>
+</tuv>
+</tu><tu><note>まえがき</note><note>book 日语敬语45例</note>
+<tuv xml:lang="ja">
+<seg>以前『敬語表現」という本も書きました。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>坂本惠老师就著有《敬语表达》一书。</seg>
+</tuv>
+</tu><tu><note>まえがき</note><note>book 日语敬语45例</note>
+<tuv xml:lang="ja">
+<seg>でも、言葉は表現するだけではありません。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>但是所谓语言不只限于表达自己，</seg>
+</tuv>
+</tu><tu><note>まえがき</note><note>book 日语敬语45例</note>
+<tuv xml:lang="ja">
+<seg>相手が表現したこと、相手の言いたいことや気持ちを受け取る必要があります。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>还包括接受对方的表达，理解对方想要说的事情和心情，</seg>
+</tuv>
+</tu><tu><note>まえがき</note><note>book 日语敬语45例</note>
+<tuv xml:lang="ja">
+<seg>それを「敬語理解」とよんでいます。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>我们称其为“敬语理解”。</seg>
+</tuv>
+</tu><tu><note>まえがき</note><note>book 日语敬语45例</note>
+<tuv xml:lang="ja">
+<seg>そして「敬語表現」と「敬語理解」をあわせたもの、つまり相手を大切に思って「敬語」を使うコミュニケーションのことを「敬語コミュニケーション」と言っています。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>“敬语表达”与“敬语理解”密不可分，即尊重对方，运用“敬语”交流，我们把这个过程叫作“敬语交流”。</seg>
+</tuv>
+</tu><tu><note>まえがき</note><note>book 日语敬语45例</note>
+<tuv xml:lang="ja">
+<seg>だから、この中には相手を悪く言ったり、けんかしたりする言葉は含まれていません。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>因此，“敬语交流”不包括贬低对方或用于吵架的语言。</seg>
+</tuv>
+</tu><tu><note>まえがき</note><note>book 日语敬语45例</note>
+<tuv xml:lang="ja">
+<seg>この本では相手をどのように尊重して、大事にしていることを示しているかという考え方のコミュニクーションについて考えたいと思います。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>这本书就是想和大家一起探讨什么是尊重对方、看重对方的交流方式。</seg>
+</tuv>
+</tu><tu><note>まえがき</note><note>book 日语敬语45例</note>
+<tuv xml:lang="ja">
+<seg>ここでは日本語の敬語と敬語コミュニケーションについてのつの考え方、一つの例を示しました。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>这本书里给大家展示的是我们对日语敬语和日语敬语交流的认识和例子。</seg>
+</tuv>
+</tu><tu><note>まえがき</note><note>book 日语敬语45例</note>
+<tuv xml:lang="ja">
+<seg>言葉に関することは常に一つの正しい答えがあるわけではなく、考え方によっていくつかの違った例が現れるものですが、</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>表达方式往往没有唯一的答案，根据不同的认识，会有多种说法。</seg>
+</tuv>
+</tu><tu><note>まえがき</note><note>book 日语敬语45例</note>
+<tuv xml:lang="ja">
+<seg>敬語やコミュニケーションについて言えば、日本語を使う人の中でも違いが大きいものです。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>对敬语和敬语交流的认识，即使是日语母语者也会因人而异。</seg>
+</tuv>
+</tu><tu><note>まえがき</note><note>book 日语敬语45例</note>
+<tuv xml:lang="ja">
+<seg>地域によって、社会によって、また、会社や学校によって、あるときにはグループによって考え方や表し方が違っています。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>不仅是地域、社会阶层、公司和学校，有时甚至在一个团体内其表达方式也会有很大的不同。</seg>
+</tuv>
+</tu><tu><note>まえがき</note><note>book 日语敬语45例</note>
+<tuv xml:lang="ja">
+<seg>特に人によって、つまり一人一人の個人による考え方の違いも大きいのです。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>尤其对人来说，也就是每个人的思考方式的差异也很大。</seg>
+</tuv>
+</tu><tu><note>まえがき</note><note>book 日语敬语45例</note>
+<tuv xml:lang="ja">
+<seg>従って、この本に書いたことは一つの考え方に過ぎません。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>因此，本书中涉及的仅是其中的一种。换言之，不同的人会有不同的认识，本书中的例子只是其中之一。</seg>
+</tuv>
+</tu><tu><note>まえがき</note><note>book 日语敬语45例</note>
+<tuv xml:lang="ja">
+<seg>日本語を母語とする人でも、これは違うとか、私はこう考えない、という人もいると思います。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>即使是日语母语者，也有可能说“不是这样的”“我不这样认为”。</seg>
+</tuv>
+</tu><tu><note>まえがき</note><note>book 日语敬语45例</note>
+<tuv xml:lang="ja">
+<seg>それが敬語やコミュニケーションだとも言えます。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>也许这就是日语的敬语和敬语交流。</seg>
+</tuv>
+</tu><tu><note>まえがき</note><note>book 日语敬语45例</note>
+<tuv xml:lang="ja">
+<seg>これまで私たち（坂本、趙）が見てきて、考えてきたことをここに示しました。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>这里记述的是我们两位作者迄今为止的认识。</seg>
+</tuv>
+</tu><tu><note>まえがき</note><note>book 日语敬语45例</note>
+<tuv xml:lang="ja">
+<seg>一つの例ですが、あなた自身が見た日本語の世界、知っている日本語を話す人の考え方とどこが同じでどこが違うか考えてみてください。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>你可以想象一下，你所看到的日语世界里，你所接触的日语母语者中哪些想法是一样的，哪些是不同的？</seg>
+</tuv>
+</tu><tu><note>まえがき</note><note>book 日语敬语45例</note>
+<tuv xml:lang="ja">
+<seg>そして、日本語を使うとき、どう表せば自分の気持ちがよく表現できるのか、相手に配慮ができるのかをそのたびに考えてみてください。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>在你使用日语时，如何才能表达自己的心情，如何才能表达对对方的关怀？</seg>
+</tuv>
+</tu><tu><note>まえがき</note><note>book 日语敬语45例</note>
+<tuv xml:lang="ja">
+<seg>言葉が上手になるためには、そのようにして自分で自分の言葉を磨いていくしかありません。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>想学好一门语言，要自己去不断地思考打磨。</seg>
+</tuv>
+</tu><tu><note>まえがき</note><note>book 日语敬语45例</note>
+<tuv xml:lang="ja">
+<seg>実際に使われている日本語の中には、間違った表現や、多くの人の賛同は得られないと思われるものもあります。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>在实际使用日语的时候，总有一些错误或得不到多数人认同的表达方式。</seg>
+</tuv>
+</tu><tu><note>まえがき</note><note>book 日语敬语45例</note>
+<tuv xml:lang="ja">
+<seg>変だな、と思ったときには、それが正しいかどうかより、適切かどうか、で考えてほしいと思います。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>当遇到这样的表达方式时，比起纠结它正确与否，更需要考虑它是否恰当。</seg>
+</tuv>
+</tu><tu><note>まえがき</note><note>book 日语敬语45例</note>
+<tuv xml:lang="ja">
+<seg>場合によっては間違った表現であっても、理由があり、そのように言いたい、という背景があることも多いのです。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>某种时候，即使是错误也有错误的原因，有其这样说的道理。这种情况其实是很多的。</seg>
+</tuv>
+</tu><tu><note>まえがき</note><note>book 日语敬语45例</note>
+<tuv xml:lang="ja">
+<seg>それが適切かどうかを判断するのはあなた自身です。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>你要自己去判断这样说是否贴切。</seg>
+</tuv>
+</tu><tu><note>まえがき</note><note>book 日语敬语45例</note>
+<tuv xml:lang="ja">
+<seg>言葉を磨くと同時に、その判断力も磨くことが必要です。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>在打磨自己语言的同时，也需要打磨自己的判断能力。</seg>
+</tuv>
+</tu><tu><note>まえがき</note><note>book 日语敬语45例</note>
+<tuv xml:lang="ja">
+<seg>本書は5章からなっています。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>本书共分5章。</seg>
+</tuv>
+</tu><tu><note>まえがき</note><note>book 日语敬语45例</note>
+<tuv xml:lang="ja">
+<seg>第1章は日本語の「敬語」を説明したものです。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>第1章是在解析日语的“敬语”。</seg>
+</tuv>
+</tu><tu><note>まえがき</note><note>book 日语敬语45例</note>
+<tuv xml:lang="ja">
+<seg>日本語の「敬語」は語彙としても普通の語彙とは違っていますし、文法的にも他の動詞と違うものもあったりして、難しい面があります。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>日语的“敬语”之所以难学，主要有以下两个原因。一是有专门的敬语词，二是有特定的语法表达。</seg>
+</tuv>
+</tu><tu><note>まえがき</note><note>book 日语敬语45例</note>
+<tuv xml:lang="ja">
+<seg>ただ、注意していただきたいのは、言葉としての「敬語」の働きと実際に使うときのルールを一緒にしないでほしいということです。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>但是，希望引起大家注意的是，作为词语的“敬语”的作用与实际话语中使用的规则不能混为一谈。</seg>
+</tuv>
+</tu><tu><note>まえがき</note><note>book 日语敬语45例</note>
+<tuv xml:lang="ja">
+<seg>ここではまず「敬語」の言葉としての働きについて学びます。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>在这一章里我们首先学习的是“敬语”的作用。</seg>
+</tuv>
+</tu><tu><note>まえがき</note><note>book 日语敬语45例</note>
+<tuv xml:lang="ja">
+<seg>第2章はその「敬語」を使うときのルールについて学びます。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>第2章学习的是使用“敬语”的规则。</seg>
+</tuv>
+</tu><tu><note>まえがき</note><note>book 日语敬语45例</note>
+<tuv xml:lang="ja">
+<seg>どのような考え方で「敬語」を使ったらいいかということです。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>是告诉大家在什么情况下使用“敬语”是最合适的。</seg>
+</tuv>
+</tu><tu><note>まえがき</note><note>book 日语敬语45例</note>
+<tuv xml:lang="ja">
+<seg>第3章は「敬語以外の配慮」についてです。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>第3章讲的是“敬语以外需留意的事情”。</seg>
+</tuv>
+</tu><tu><note>まえがき</note><note>book 日语敬语45例</note>
+<tuv xml:lang="ja">
+<seg>日本語の敬語を考えるとき、「敬語」そのものの言葉に気をとられますが、実際には敬語以外にも必要なことはたくさんあり、敬語を使わなくてもいろいろな配慮は表せることが多いのです。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>在考虑日语敬语的时候，我们会纠结于“敬语”的遣词造句。其实除了语言本身，需要关注的还有许多，即使不用敬语，也可以表达对他人的关怀。</seg>
+</tuv>
+</tu><tu><note>まえがき</note><note>book 日语敬语45例</note>
+<tuv xml:lang="ja">
+<seg>そのことについて具体的に考えてみます。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>在这一章里会告诉大家我们关于这方面的想法。</seg>
+</tuv>
+</tu><tu><note>まえがき</note><note>book 日语敬语45例</note>
+<tuv xml:lang="ja">
+<seg>第4章は実際に敬語を使う、という場合、具体的にどんな場合に、どのように使うかを、使う場面や、どのようなことを言いたいのか、ということから分類して、実際の言い方や使い方を学びます。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>第4章我们要告诉大家敬语的实际说法和用法，如在何种情境下使用何种敬语最合适。我们将按照情境、你想说的话来具体分类学习实际的说法和用法。</seg>
+</tuv>
+</tu><tu><note>まえがき</note><note>book 日语敬语45例</note>
+<tuv xml:lang="ja">
+<seg>ここに表したものは一例に過ぎませんが、実際の表現にはどのようなものがあるかは観察してみてください。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>这里提示的只是其中的一个例子，希望大家自己去观察在实际生活中还有什么其他的说法和用法。</seg>
+</tuv>
+</tu><tu><note>まえがき</note><note>book 日语敬语45例</note>
+<tuv xml:lang="ja">
+<seg>第5章は以上に述べたような敬語を使ったコミュニケーションのもととなる、あるいは背景となると言っていいような日本人の考え方について学びます。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>第5章要介绍的是支撑前几章涉及的敬语交流的根本，换言之就是看不见的日本人的想法。</seg>
+</tuv>
+</tu><tu><note>まえがき</note><note>book 日语敬语45例</note>
+<tuv xml:lang="ja">
+<seg>どのような考え方から以上に述べたような使い方が出てくるのかについて考えます。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>在这一章，想和大家一起思考日语母语者是出于怎样的考虑使用前4章中涉及的表达方式的。</seg>
+</tuv>
+</tu><tu><note>まえがき</note><note>book 日语敬语45例</note>
+<tuv xml:lang="ja">
+<seg>中国人と同じような考え方を持つ場合もあれば、異なる考え方もあると思います。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>有些是和汉语母语者相同的，也有些是不同的。</seg>
+</tuv>
+</tu><tu><note>まえがき</note><note>book 日语敬语45例</note>
+<tuv xml:lang="ja">
+<seg>このような考え方を理解しておくと、日本人とのコミュニケーションがしやすくなると思います。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>理解了这些，和日语母语者的交流会变得不那么困难。</seg>
+</tuv>
+</tu><tu><note>まえがき</note><note>book 日语敬语45例</note>
+<tuv xml:lang="ja">
+<seg>コラムでは日本語の中でよく使われる挨拶言葉などを説明しています。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>专栏汇集的是日语中经常使用的寒暄语。</seg>
+</tuv>
+</tu><tu><note>まえがき</note><note>book 日语敬语45例</note>
+<tuv xml:lang="ja">
+<seg>どんな意味かわからなかったり、いつどのように使えばいいかわからないときに見てください。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>当不明白其意思，不知道什么时候使用时，供大家浏览。</seg>
+</tuv>
+</tu><tu><note>まえがき</note><note>book 日语敬语45例</note>
+<tuv xml:lang="ja">
+<seg>それぞれの本文の前には質問がついています。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>每个正文前面都有一个问题。</seg>
+</tuv>
+</tu><tu><note>まえがき</note><note>book 日语敬语45例</note>
+<tuv xml:lang="ja">
+<seg>まず質問を考えてから本文を読んでみてください。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>请先思考问题再阅读正文。</seg>
+</tuv>
+</tu><tu><note>まえがき</note><note>book 日语敬语45例</note>
+<tuv xml:lang="ja">
+<seg>いろいろなことが見えてくると思います。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>我想会看到各种各样的事情。</seg>
+</tuv>
+</tu><tu><note>まえがき</note><note>book 日语敬语45例</note>
+<tuv xml:lang="ja">
+<seg>新しい日本語の世界へ、新しい自分自身の発見の世界に入ってみましょう。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>前往新的日语世界，进入新的发现自我的世界里吧。</seg>
+</tuv>
+</tu><tu><note>まえがき</note><note>book 日语敬语45例</note>
+<tuv xml:lang="ja">
+<seg>&lt;注意事項&gt;</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>く注意事项＞</seg>
+</tuv>
+</tu><tu><note>まえがき</note><note>book 日语敬语45例</note>
+<tuv xml:lang="ja">
+<seg>なお、「日本語」というのは日本で使われている標準的な、共通語と言われているもので、基本的には東京などの都市で使われているものを対象にしています。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>本书所说的“日语”是指在日本使用的标准日语，基本上是以东京等城市使用的日语为对象。</seg>
+</tuv>
+</tu><tu><note>まえがき</note><note>book 日语敬语45例</note>
+<tuv xml:lang="ja">
+<seg>地方ではかなり違う面があります。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>日本各地的方言有很大差别。</seg>
+</tuv>
+</tu><tu><note>まえがき</note><note>book 日语敬语45例</note>
+<tuv xml:lang="ja">
+<seg>また、「敬語」の分類、用語についてはいろいろな説がありますが、ここでは文化庁（2007）「敬語の指針」の用語に従いました。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>“敬语”的分类、专业名词有各种不同的表述方式，本书以文化厅（2007）《敬语指南》为依据。</seg>
+</tuv>
+</tu><tu><note>天声人语</note><note>060121_フィルムからデジタルに</note>
+<tuv xml:lang="ja">
+<seg>フィルムからデジタルに</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>从“胶卷”到“数码”</seg>
+</tuv>
+</tu><tu><note>天声人语</note><note>060121_フィルムからデジタルに</note>
+<tuv xml:lang="ja">
+<seg>新聞社に入社して、まだ間もないころの夜だった。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>那是我刚进报社后不久的一个晚上。</seg>
+</tuv>
+</tu><tu><note>天声人语</note><note>060121_フィルムからデジタルに</note>
+<tuv xml:lang="ja">
+<seg>取材で撮ってきたフィルムを暗室で現像したが、何も写っていない。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>我把在采访中拍子的胶卷拿到暗室里冲洗，但(上面)什么也没照上。</seg>
+</tuv>
+</tu><tu><note>天声人语</note><note>060121_フィルムからデジタルに</note>
+<tuv xml:lang="ja">
+<seg>シャッターを切るたびに巻き上げたつもりだったが、フィルムの入れ方が悪く、空回りしていた。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>每大按了快门后我都上了卷，但由于胶卷没装好，都空转了。</seg>
+</tuv>
+</tu><tu><note>天声人语</note><note>060121_フィルムからデジタルに</note>
+<tuv xml:lang="ja">
+<seg>フィルムを使わず、撮った像をその場で確認できるデジタルカメラでは、まずこんなミスは起きない。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>如果用数码相机，就不会出现这样的差错，因为它不用胶卷，还可以当场确认拍照的图像。</seg>
+</tuv>
+</tu><tu><note>天声人语</note><note>060121_フィルムからデジタルに</note>
+<tuv xml:lang="ja">
+<seg>銀塩(フィルム)からデジタルへ、写真の世界で新旧の移り変わりが激しく続いている。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>从“银盐胶卷(即专统胶卷)”到“数码”，照相器材的更新换代(直译:照片世界的新旧变迁)一直在激烈地进行着。</seg>
+</tuv>
+</tu><tu><note>天声人语</note><note>060121_フィルムからデジタルに</note>
+<tuv xml:lang="ja">
+<seg>コニカミノルタホールディングスが、「サクラカラー」の名で知られた写真フィルムなどのフォト事業とカメラ事業から撤退するという。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>据说，以“樱花彩印”作为胶卷品牌而知名的柯尼卡美能达集团公司要撤出相片和相机业务。</seg>
+</tuv>
+</tu><tu><note>天声人语</note><note>060121_フィルムからデジタルに</note>
+<tuv xml:lang="ja">
+<seg>ニコンもフィルムカメラからの事実上の撤退を発表した。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>尼康公司也宣称他们已经撤出了胶卷相机业务。</seg>
+</tuv>
+</tu><tu><note>天声人语</note><note>060121_フィルムからデジタルに</note>
+<tuv xml:lang="ja">
+<seg>こうした流れの中で「撇退しません」という富士写真フイルムのコメントが目についた</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>在这样的浪潮中，我注意到了富士胶片公司发布的关于“不撤出”的消息(直译:评论)。</seg>
+</tuv>
+</tu><tu><note>天声人语</note><note>060121_フィルムからデジタルに</note>
+<tuv xml:lang="ja">
+<seg>「人間の喜びも悲しみも愛も感動も全てを表現する写真は、人間にとって無くてはならないものであり……その中でも銀塩写真は、その優れた表現力等でデジタルに勝る優位さもあり、写真の原点とも言えるものです」。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>“通过照片来表达人的喜悦、悲哀、爱和感动等所有情感，这对人们来说，是不可缺少的东西…其中的银盐照片出色的表现力要胜过数码一筹， 可以说是相片的本来面目(直译:起始点)，”</seg>
+</tuv>
+</tu><tu><note>天声人语</note><note>060121_フィルムからデジタルに</note>
+<tuv xml:lang="ja">
+<seg>なかなか熱がこもっている。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>这说得确实很有道理(直译:确实充满了热情)。</seg>
+</tuv>
+</tu><tu><note>天声人语</note><note>060121_フィルムからデジタルに</note>
+<tuv xml:lang="ja">
+<seg>簡便さでは、デジタルの方がかなり優位なのだろう。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>就(操作)简便而言，还是数码(相机)占有相当的优势吧。</seg>
+</tuv>
+</tu><tu><note>天声人语</note><note>060121_フィルムからデジタルに</note>
+<tuv xml:lang="ja">
+<seg>しかし写真とは、絶え間なく流れてゆく時間の中で、ある一瞬をとらえるものだ。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>然而，所谓“相片”是在不停流逝的时间中捕捉到的一个瞬间。</seg>
+</tuv>
+</tu><tu><note>天声人语</note><note>060121_フィルムからデジタルに</note>
+<tuv xml:lang="ja">
+<seg>そんな「時の肖像」をとどめる手だてとして、愛好家の間ではアナログの人気も根強いそうだ。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>在(摄影)爱好者当中，传统相机作为如此留下“时间肖像”的手段，其人气还是根深蒂固的。</seg>
+</tuv>
+</tu><tu><note>天声人语</note><note>060121_フィルムからデジタルに</note>
+<tuv xml:lang="ja">
+<seg>フィルムが空回りした写真は、取材の相手方におわびし、翌朝撮り直して何とか掲載日に間に合わせた。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>对于胶卷空转而出的差错，我向接受采访的人道了歉，请他在第二天早上补照了一次，并设法赶上了登报之日。</seg>
+</tuv>
+</tu><tu><note>天声人语</note><note>060121_フィルムからデジタルに</note>
+<tuv xml:lang="ja">
+<seg>30年以上前の失敗だが、その後しばらくは、何も写っていないあのフィルムが夢の中に現れることがあった。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>这是我30多年前的一次失误。在那以后的一段时间里，那个没有照上任何东西的胶卷曾在我的睡梦里出现过。</seg>
+</tuv>
+</tu><tu><note>天声人语</note><note>211226_サンタのクリスマス休暇</note>
+<tuv xml:lang="ja">
+<seg>サンタのクリスマス休暇</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>圣诞老人的圣诞假期</seg>
+</tuv>
+</tu><tu><note>天声人语</note><note>211226_サンタのクリスマス休暇</note>
+<tuv xml:lang="ja">
+<seg>日本ではクリスマスが終わると、一気に正月気分へ切り替わる。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>日本一过完圣诞节就马上有了新年的氛围。</seg>
+</tuv>
+</tu><tu><note>天声人语</note><note>211226_サンタのクリスマス休暇</note>
+<tuv xml:lang="ja">
+<seg>では、世界中の子どもたちへプレゼントを配ったあとでサンタクロースは何をしているのか。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>那么，当圣诞老人给全世界的孩子送完礼物之后，他会做些什么呢？</seg>
+</tuv>
+</tu><tu><note>天声人语</note><note>211226_サンタのクリスマス休暇</note>
+<tuv xml:lang="ja">
+<seg>フィンランドの著名な絵本作家マウリ・クンナスさんに電話で聞いてみた。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>我打电话询问了芬兰著名的绘本作家墨里·库纳斯。</seg>
+</tuv>
+</tu><tu><note>天声人语</note><note>211226_サンタのクリスマス休暇</note>
+<tuv xml:lang="ja">
+<seg>「1月6日まで冬休みに入ります」。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>“他会放假至1月6日”。</seg>
+</tuv>
+</tu><tu><note>天声人语</note><note>211226_サンタのクリスマス休暇</note>
+<tuv xml:lang="ja">
+<seg>大仕事を終えたサンタ一行は、ロシアとの国境に近い北部の山へ戻る。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>完成重要工作后，圣诞老人一行会回到和俄罗斯国境附近的北部山脉。</seg>
+</tuv>
+</tu><tu><note>天声人语</note><note>211226_サンタのクリスマス休暇</note>
+<tuv xml:lang="ja">
+<seg>ふもとにある秘密の村で、サンタは大勢のこびとたちと暮らしているという。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>据说在山脚处某个隐秘的村庄里，圣诞老人和许多小精灵生活在一起。</seg>
+</tuv>
+</tu><tu><note>天声人语</note><note>211226_サンタのクリスマス休暇</note>
+<tuv xml:lang="ja">
+<seg>40年前にクンナスさんが出した『サンタクロースと小人（こびと）たち』は30近い言語に翻訳され、日本でもクリスマス絵本の定番だ。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>40年前库纳斯所著的《圣诞老人耳朵山的秘密》被翻译成将近30种语言，在日本也一直是圣诞绘本的标配。</seg>
+</tuv>
+</tu><tu><note>天声人语</note><note>211226_サンタのクリスマス休暇</note>
+<tuv xml:lang="ja">
+<seg>サンタが期間限定のボランティアだと思い込んでいた私は、同著でフルタイムの本業だと知った。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>一直以来都以为圣诞老师是在特定时间做志愿服务的我，在这本书中才知道这是他的全职工作。</seg>
+</tuv>
+</tu><tu><note>天声人语</note><note>211226_サンタのクリスマス休暇</note>
+<tuv xml:lang="ja">
+<seg>今年出版された『サンタクロースの冬やすみ』では、休暇の詳細が明らかにされた。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>在今年出版的《圣诞老人的寒假》中，作者披露了休假的详细情况。</seg>
+</tuv>
+</tu><tu><note>天声人语</note><note>211226_サンタのクリスマス休暇</note>
+<tuv xml:lang="ja">
+<seg>たとえば12月27日は劇をみる日で、30日はトナカイ牧場を訪ねる日。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>比如，12月27日去看戏剧，30日造访驯鹿牧场。</seg>
+</tuv>
+</tu><tu><note>天声人语</note><note>211226_サンタのクリスマス休暇</note>
+<tuv xml:lang="ja">
+<seg>元日は静かに過ごし、3日に町へ行く。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>平静地度过元旦后，3日再去街上一趟。</seg>
+</tuv>
+</tu><tu><note>天声人语</note><note>211226_サンタのクリスマス休暇</note>
+<tuv xml:lang="ja">
+<seg>フィンランドでもオミクロン株で感染拡大が続く。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>话说回来，奥密克戎也在肆虐芬兰，感染范围也在不断扩大。</seg>
+</tuv>
+</tu><tu><note>天声人语</note><note>211226_サンタのクリスマス休暇</note>
+<tuv xml:lang="ja">
+<seg>71歳のクンナスさんは、今月半ばに3回目のワクチン接種を終えたという。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>71岁的库纳斯在本月中期接种了第3针疫苗。</seg>
+</tuv>
+</tu><tu><note>天声人语</note><note>211226_サンタのクリスマス休暇</note>
+<tuv xml:lang="ja">
+<seg>「日本の子どもたちに伝えて。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>“帮我转告日本的小朋友们。</seg>
+</tuv>
+</tu><tu><note>天声人语</note><note>211226_サンタのクリスマス休暇</note>
+<tuv xml:lang="ja">
+<seg>大丈夫、コロナにも終わりは来ると。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>这一切都不算什么，新冠疫情也会有结束的一天。</seg>
+</tuv>
+</tu><tu><note>天声人语</note><note>211226_サンタのクリスマス休暇</note>
+<tuv xml:lang="ja">
+<seg>家で静かに本を読む冬休みもいいよ」</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>在家安静读书的寒假也是很棒的”。</seg>
+</tuv>
+</tu><tu><note>天声人语</note><note>211226_サンタのクリスマス休暇</note>
+<tuv xml:lang="ja">
+<seg>クンナス作品を邦訳してきた稲垣美晴さんも、サンタに詳しい。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>将库纳斯的作品翻译成日语的稻垣美晴女士，也十分熟悉圣诞老人的事情。</seg>
+</tuv>
+</tu><tu><note>天声人语</note><note>211226_サンタのクリスマス休暇</note>
+<tuv xml:lang="ja">
+<seg>空っぽの袋で来たサンタへ、逆に子どもが絵本や人形を渡す――。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>如果拿着空麻袋的圣诞老人来了，孩子们反而会送给他绘本或是玩偶——。</seg>
+</tuv>
+</tu><tu><note>天声人语</note><note>211226_サンタのクリスマス休暇</note>
+<tuv xml:lang="ja">
+<seg>そんな話を、稲垣さんはフィンランドで読んだことがあるそうだ。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>这种情节，听说稻垣女士曾在芬兰读到过。</seg>
+</tuv>
+</tu><tu><note>天声人语</note><note>211226_サンタのクリスマス休暇</note>
+<tuv xml:lang="ja">
+<seg>与える喜びも豊かな贈り物なのだと「サンタの国」は教えてくれる。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>“圣诞老人的国度”告诉我们，予人玫瑰的喜悦也是一份丰厚的礼物。</seg>
+</tuv>
+</tu><tu><note>天声人语</note><note>220201_石原慎太郎さん逝く</note>
+<tuv xml:lang="ja">
+<seg>石原慎太郎さん逝く</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>石原慎太郎逝世</seg>
+</tuv>
+</tu><tu><note>天声人语</note><note>220201_石原慎太郎さん逝く</note>
+<tuv xml:lang="ja">
+<seg>すでに６人の有力候補者が名乗りをあげていた。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>六位主要候选人已经做完自我介绍。</seg>
+</tuv>
+</tu><tu><note>天声人语</note><note>220201_石原慎太郎さん逝く</note>
+<tuv xml:lang="ja">
+<seg>何を言うのか。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>他会怎么说呢？</seg>
+</tuv>
+</tu><tu><note>天声人语</note><note>220201_石原慎太郎さん逝く</note>
+<tuv xml:lang="ja">
+<seg>身構える報道陣に開口一番「裕次郎の兄でございます」。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>面对严阵以待的记者们开口第一句话便是，“我是裕次郎的哥哥”。</seg>
+</tuv>
+</tu><tu><note>天声人语</note><note>220201_石原慎太郎さん逝く</note>
+<tuv xml:lang="ja">
+<seg>１９９９年の都知事選への出馬会見には、石原慎太郎さんらしさが凝縮されていた。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>在1999年竞选东京都知事的新闻发布会上的讲话便凝聚了他的个人特点。</seg>
+</tuv>
+</tu><tu><note>天声人语</note><note>220201_石原慎太郎さん逝く</note>
+<tuv xml:lang="ja">
+<seg>型破りな言動、サービス精神、そして早世した弟への複雑な思い。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>他拥有着与众不同的言行、服务精神和对早逝弟弟的复杂感情。</seg>
+</tuv>
+</tu><tu><note>天声人语</note><note>220201_石原慎太郎さん逝く</note>
+<tuv xml:lang="ja">
+<seg>自分のほうが男前だと思っていたと、ミリオンセラーになった『弟』で明かしている。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>他曾在畅销书《弟弟》一文中表示自己才是男子汉。</seg>
+</tuv>
+</tu><tu><note>天声人语</note><note>220201_石原慎太郎さん逝く</note>
+<tuv xml:lang="ja">
+<seg>青春のころ、その弟がどんどん羽ばたいていくのを「いささかの屈辱」をもってみていたという。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>他说在其年轻的时候，曾用“一丝羞辱”的看待他弟弟踏入娱乐圈这件事。</seg>
+</tuv>
+</tu><tu><note>天声人语</note><note>220201_石原慎太郎さん逝く</note>
+<tuv xml:lang="ja">
+<seg>映画スターの兄であり、最年少の芥川賞作家であり、最多得票で当選した参院議員であり、これほど華やかな経歴の持ち主も多くはいまい。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>他作为电影明星的哥哥，最年轻的芥川奖得主，并以最多选票当选的议员。并不是所有人都有这样辉煌的经历。</seg>
+</tuv>
+</tu><tu><note>天声人语</note><note>220201_石原慎太郎さん逝く</note>
+<tuv xml:lang="ja">
+<seg>高度成長から経済大国へ。日本という国が、国際社会で自信をつけていく「戦後昭和」という時代を体現した人であった。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>他可谓是见证了日本从高度增长到经济超级大国的转变，也是日本在国际社会上获得自信的“战后昭和”时代的见证者。</seg>
+</tuv>
+</tu><tu><note>天声人语</note><note>220201_石原慎太郎さん逝く</note>
+<tuv xml:lang="ja">
+<seg>政治家としての数々の問題発言を忘れるわけにはいかない。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>我们忘不了他那些作为政治家不应该有争议性的言论。</seg>
+</tuv>
+</tu><tu><note>天声人语</note><note>220201_石原慎太郎さん逝く</note>
+<tuv xml:lang="ja">
+<seg>「三国人、外国人が凶悪な犯罪を繰り返している」「文明がもたらしたもっとも悪（あ）しき有害なものは、ババアなんだそうだ」「（東日本大震災は）やっぱり天罰だと思う」。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>“第三国人，外国人屡屡犯下令人发指的罪行”；“文明所带来的最邪恶、最有害的东西是‘老太婆’”；“我认为东日本大地震是天谴&quot;。</seg>
+</tuv>
+</tu><tu><note>天声人语</note><note>220201_石原慎太郎さん逝く</note>
+<tuv xml:lang="ja">
+<seg>人権意識の低さにあきれかえることが何度もあった。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>我也多次对他缺乏人权意识感到震惊。</seg>
+</tuv>
+</tu><tu><note>天声人语</note><note>220201_石原慎太郎さん逝く</note>
+<tuv xml:lang="ja">
+<seg>それでも人気は衰えず、政界で存在感を示し続けた。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>尽管如此，他的声望并没有减弱，并继续在政界展现他的存在感。</seg>
+</tuv>
+</tu><tu><note>天声人语</note><note>220201_石原慎太郎さん逝く</note>
+<tuv xml:lang="ja">
+<seg>それも一因だろうか。「率直」と「乱暴」の違いをわきまえられない、幼稚な政治家が相次いでしまった。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>也许是因为无法辨别“坦率”和“暴力”区别的幼稚政客层出不穷的缘故吧。</seg>
+</tuv>
+</tu><tu><note>天声人语</note><note>220201_石原慎太郎さん逝く</note>
+<tuv xml:lang="ja">
+<seg>享年８９。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>享年89岁。</seg>
+</tuv>
+</tu><tu><note>天声人语</note><note>220201_石原慎太郎さん逝く</note>
+<tuv xml:lang="ja">
+<seg>「僕自身にとっては、肉体こそが自我といえる」（『死という最後の未来』）。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>“对我来说，肉体就是自我”（《生还》）。</seg>
+</tuv>
+</tu><tu><note>天声人语</note><note>220201_石原慎太郎さん逝く</note>
+<tuv xml:lang="ja">
+<seg>青年期から死まで、その一挙手一投足にスポットライトが当たり続けた人だった。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>从年轻到去世他的举手投足一直都处于聚光灯下。</seg>
+</tuv>
+</tu><tu><note>新编日语阅读文选 第一册</note><note>日光</note>
+      <tuv xml:lang="ja">
+        <seg>日光</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN"  >
+        <seg>日光</seg>
+      </tuv>
+    </tu><tu><note>新编日语阅读文选 第一册</note><note>日光</note>
+      <tuv xml:lang="ja">
+        <seg>景色がよし上に、いろいろりっぱなお宮がたくさんあるので、日本が外国にむかって自慢することのできる名所の一つになっています。</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN"  >
+        <seg>日光不仅风景秀丽，而且还有许多雄伟壮观的宫殿，是日本人在外国人面前引以为荣的名胜之一。</seg>
+      </tuv>
+    </tu><tu><note>新编日语阅读文选 第一册</note><note>日光</note>
+      <tuv xml:lang="ja">
+        <seg>そのうち、よその国に見ることのできないものは、何といっても東照宮です。</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN"  >
+        <seg>其中惟独在日本才能游览到的该数东照宫。</seg>
+      </tuv>
+    </tu><tu><note>新编日语阅读文选 第一册</note><note>日光</note>
+      <tuv xml:lang="ja">
+        <seg>東照宮は徳川の最初の将軍の徳川家康をまつったお宮です。</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN"  >
+        <seg>东照宫是为了祭典德川家族中第一代将军德川家康而建造的宫殿。</seg>
+      </tuv>
+    </tu><tu><note>新编日语阅读文选 第一册</note><note>日光</note>
+      <tuv xml:lang="ja">
+        <seg>これは三代しょうぐんの徳川家光が日本じゅうの名人を集め、たくさんのお金をかけてこしらえたお宮で、一本のはしら、一つの彫り物、一枚の絵、どれを見てもおどろくほどよくできています。</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN"  >
+        <seg>该宫殿由第三代将军德川家光召集了当时全日本的能工巧匠，耗费巨资建造而成。每一根立柱、每一件雕刻品、每一幅绘画，无不制作精细，令游览者赞叹不已。</seg>
+      </tuv>
+    </tu><tu><note>新编日语阅读文选 第一册</note><note>日光</note>
+      <tuv xml:lang="ja">
+        <seg>「日光を見ないうちはけっこうと言うな。」という例えがあるくらい、日光はけっこうな所です。</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN"  >
+        <seg>日光是个游览胜地，以致人们常比喻道“不看日光不尽兴”。</seg>
+      </tuv>
+    </tu><tu><note>新编日语阅读文选 第一册</note><note>日光</note>
+      <tuv xml:lang="ja">
+        <seg>東照宮に参詣した人は、だれでもかならず中禅寺へ行きます。</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN"  >
+        <seg>参拜完东照宫的人，谁都会涉足中禅寺。</seg>
+      </tuv>
+    </tu><tu><note>新编日语阅读文选 第一册</note><note>日光</note>
+      <tuv xml:lang="ja">
+        <seg>東照宮の前を流れる大谷川にそってさか道を四キロばかり行くと、そこに名高いけごんのたきがあります。</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN"  >
+        <seg>沿着东照宫前的大谷川行走4000米左右的坡道，便可到达著名的华严瀑布。</seg>
+      </tuv>
+    </tu><tu><note>新编日语阅读文选 第一册</note><note>日光</note>
+      <tuv xml:lang="ja">
+        <seg>けごんのたきは高さが百メートルもあって、たくさんの水がかみなりのような音を立てながらおちて来るありさまは、なんとも言えないすばらしいながめです。</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN"  >
+        <seg>华严瀑布高达百米，巨大的水流发出雷鸣般的声响直泻而下，其壮观叫人难以形容。</seg>
+      </tuv>
+    </tu><tu><note>新编日语阅读文选 第一册</note><note>日光</note>
+      <tuv xml:lang="ja">
+        <seg>ここからまた少しさか道を上がって行くと、名高い中禅寺湖に出ます。</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN"  >
+        <seg>从这里出发，顺坡道而上不久即可到达有名的中禅寺湖。</seg>
+      </tuv>
+    </tu><tu><note>新编日语阅读文选 第一册</note><note>日光</note>
+      <tuv xml:lang="ja">
+        <seg>中禅寺湖はまわりが二十五キロもある大きなみずうみで、たいへんけしきがよく、まっ白なほをはったヨットが走って行ったり、赤や白やいろいろにぬった洋館がみどりの木の間にちらついたりするさまはまるで絵に書いたようです。</seg>
+      </tuv>
+      <tuv xml:lang="zh-CN"  >
+        <seg>中禅寺湖湖面宽阔，周长达25千米。这里风景非常美，游艇扬着白帆游弋在湖面上，红、白等各种不同色彩的西洋建筑点缀在绿树丛中，犹如一幅风景画。</seg>
+      </tuv>
+    </tu>
+</body>
+</tmx>
