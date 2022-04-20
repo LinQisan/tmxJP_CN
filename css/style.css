@@ -19,6 +19,7 @@ p,a,input,label,textarea,ul,li{
 }
 img{
     max-width: 100%;
+    max-height: 100%;
 }
 
 header nav img{
@@ -67,8 +68,11 @@ header li{
     background:rgb(235, 191, 177);
 }
 #latest h2{
+    margin-top: 27px;
     font-family: KaitiSC;
-    margin-bottom: 45px;
+}
+#latest h4{
+   font-size: 20px;
 }
 #latest .upper{
     position: relative;
@@ -88,9 +92,22 @@ header li{
     margin-top: 1px;
     margin-bottom: 2px;
 }
+#latest .lower{
+    padding: 21px 21px 21px 21px;
+}
+#latest a{
+    color: black;
+}
+#latest a:hover{
+    text-decoration: none;
+}
 #latest .lower h3{
     margin-top: 20px;
     margin-bottom: 2px;
+}
+#latest .outer{
+    background: rgba(30, 156, 214, 0.817);
+    box-shadow: 0 0 8px 9px rgba(30, 156, 214, 0.217);
 }
 
 @font-face {
