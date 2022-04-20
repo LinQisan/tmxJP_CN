@@ -5,10 +5,10 @@
     border-radius: .3rem;
 }
 
-h1,h2,h3,h4,h5,h6{
+h1,h2,h3,h4,h5,h6,span{
     font-family: UDDigiKyokashoNP-R, Helvetica, sans-serif;
 }
-p,a,input,label,textarea,span,ul,li{
+p,a,input,label,textarea,ul,li{
     font-family: Arial, Helvetica, sans-serif;
 }
 .btn{
@@ -66,10 +66,33 @@ header li{
     padding: 80px, 0px;
     background:rgb(235, 191, 177);
 }
-#latest h3{
+#latest h2{
     font-family: KaitiSC;
     margin-bottom: 45px;
 }
+#latest .upper{
+    position: relative;
+}
+#latest .innertext{
+    color: rgb(235, 191, 177);
+    position: absolute;
+    bottom: 10px;
+    left: 20px;
+}
+#latest .innertext span{
+    background: rgb(205, 49, 49);
+    padding: 2px 8px;
+    border-radius: 13px;
+}
+#latest .innertext h4{
+    margin-top: 1px;
+    margin-bottom: 2px;
+}
+#latest .lower h3{
+    margin-top: 20px;
+    margin-bottom: 2px;
+}
+
 @font-face {
 	font-family:KaiTiSC;
 	src: url(KaiTiSC.ttf);
