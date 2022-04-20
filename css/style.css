@@ -93,12 +93,10 @@ header li{
     margin-bottom: 2px;
 }
 #latest .lower{
-    padding: 21px 21px 21px 21px;
+    padding: 10px;
 }
 #latest a{
     color: black;
-}
-#latest a:hover{
     text-decoration: none;
 }
 #latest .lower h3{
